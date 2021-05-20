@@ -1,0 +1,10 @@
+name: alfred_hello_world
+
+publish_to: none # let's not accidentally publish this to pub.dartlang.org
+description: Hello world Alfred server
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  alfred:
